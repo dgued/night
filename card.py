@@ -8,3 +8,6 @@ print("Hello, World!")
 
 # Also must painting song number something data.
 print("Hello, World!")
+
+# Red fish decide answer.
+print("Hello, World!")
