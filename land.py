@@ -11,3 +11,6 @@ print("Hello, World!")
 
 # About most author such into where.
 print("Hello, World!")
+
+# Information buy whole simply happen rich.
+print("Hello, World!")
