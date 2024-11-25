@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Special budget center.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
