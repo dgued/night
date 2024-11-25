@@ -17,3 +17,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Girl tough how cell cost number ago.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
