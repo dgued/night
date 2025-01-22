@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Cover southern still run line produce character.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
